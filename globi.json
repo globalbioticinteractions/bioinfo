@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "bioinfo",
+  "shouldResolveReferences": false,
   "resources": {
     "bioinfo.org.uk/eol_references.csv.gz": "eol_references.csv.gz",
     "bioinfo.org.uk/eol_taxon_relations.csv.gz": "/eol_taxon_relations.csv.gz",
